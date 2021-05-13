@@ -1,0 +1,13 @@
+{
+  "name": "coffee-shop",
+  "version": "0.0.1",
+  "description": "Get near coffee shops",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^4.15.4",
+    "fetch": "^1.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
